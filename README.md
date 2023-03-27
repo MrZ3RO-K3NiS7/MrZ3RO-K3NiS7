@@ -38,6 +38,8 @@
 <a href="https://www.beecrowd.com.br/judge/en/profile/785384" target="blank"><img align="center" src="https://raw.githubusercontent.com/MrZ3RO-K3NiS7/CUSTOMiZATiON-TOOLS/key/%23BEECROWD.jpg" alt="MrZ3RO_k3nis7" height="88" width="88" /></a>
 <a href="https://www.hackerearth.com/@MrZ3RO_k3nis7" target="blank"><img align="center" src="https://raw.githubusercontent.com/MrZ3RO-K3NiS7/CUSTOMiZATiON-TOOLS/key/%23HACKEREARTH.png" alt="@MrZ3RO_k3nis7" height="88" width="88" /></a>
 </p>
+<p align="center">
+<a href="https://cses.fi/user/160204" target="blank"><img align="center" src="https://raw.githubusercontent.com/MrZ3RO-K3NiS7/CUSTOMiZATiON-TOOLS/key/%23CSES.png" alt="MrZ3RO.K3NiS7" height="70" width="169" /></a>
 
 <hr style="border: 1px solid black; margin: 20px 0;">
 
