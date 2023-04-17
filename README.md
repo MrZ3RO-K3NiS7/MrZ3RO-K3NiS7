@@ -23,7 +23,7 @@
 
 <hr style="border: 1px solid black; margin: 20px 0;">
 
-<h3 align="left">SEARCH ME ON :</h3>
+<h3 align="left">_S_E_A_R_C_H_&nbsp;&nbsp;&nbsp;_M_E_&nbsp;&nbsp;&nbsp;_O_N_</h3>
 
 <p align="center">
 <a href="https://codeforces.com/profile/MrZ3RO.k3nis7" target="blank"><img align="center" src="https://raw.githubusercontent.com/MrZ3RO-K3NiS7/CUSTOMiZATiON-TOOLS/key/%23CF.png" alt="MrZ3RO.k3nis7" height="88" width="88" /></a>   
@@ -43,10 +43,9 @@
 
 <hr style="border: 1px solid black; margin: 20px 0;">
 
-<h3 align="left">PREFERRED LANGUAGES :</h3>
-<p align="center"> <img src="https://raw.githubusercontent.com/MrZ3RO-K3NiS7/CUSTOMiZATiON-TOOLS/key/%23C.png" alt="C" width="123" height="123"/>
-</a>
-<img src="https://raw.githubusercontent.com/MrZ3RO-K3NiS7/CUSTOMiZATiON-TOOLS/key/%23C%2B%2B.png" alt="CPlusPlus" width="123" height="123"/> </a> </p>
+<h3 align="left">_E_X_P_E_R_i_E_N_C_E_S_</h3>
+<p align="center"> <img src="https://raw.githubusercontent.com/MrZ3RO-K3NiS7/CUSTOMiZATiON-TOOLS/key/%23C.png" alt="C" width="123" height="123"/> <img src="https://raw.githubusercontent.com/MrZ3RO-K3NiS7/CUSTOMiZATiON-TOOLS/key/%23C%2B%2B.png" alt="CPlusPlus" width="123" height="123"/> </p>
+<p align="center"> <img src="https://raw.githubusercontent.com/MrZ3RO-K3NiS7/CUSTOMiZATiON-TOOLS/key/%23HTML.png" alt="HTML" width="123" height="123"/> <img src="https://raw.githubusercontent.com/MrZ3RO-K3NiS7/CUSTOMiZATiON-TOOLS/key/%23CSS.png" alt="CSS" width="123" height="123"/> </p>
 
 <hr style="border: 1px solid black; margin: 20px 0;">
 
