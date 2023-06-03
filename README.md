@@ -17,7 +17,7 @@
 
 - 💬 Ask Me About : **ANYTHiNG YOU WOULD LiKE TO KNOW.**
 
-- 📫 How To Connect With Me ?? **Knock Me On iNSTAGRAM**
+- 📫 How To Connect With Me ?? **Knock Me On iNSTAGRAM & Wait For My RESPONSE.**
 
 - ⚡ Fun Fact : **SOMETiMES i DON'T SLEEP EVEN FOR A MiNUTE WiTHiN 24 HOURS...XD**
 
